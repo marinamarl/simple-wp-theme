@@ -17,8 +17,8 @@ Installation
 ------------
 
 ```bash
-$ git clone https://github.com/sirtimid/simple-wp-theme.git
-$ cd ./simple-wp-theme
+$ git clone https://github.com/marinamarl/simple-wptheme-bower-grunt-npm.git
+$ cd ./simple-wptheme-bower-grunt-npm
 $ npm install && bower install
 ```
 
